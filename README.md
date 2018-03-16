@@ -5,11 +5,11 @@ This repository is where we will put all works made at the opitative subject of 
 **This is actualy a development repository, and all final results obtained here will be transposed to Professor's repositories made to this subject. Lately we will release the link to that.**
 
 
-### To The Contributors Of This Repository
+# To The Contributors Of This Repository
 
 The are a production line with has steps that anybody needs to follow.
 
-##### Don't Have The Repository Downloaded In Actual Machine
+## Don't Have The Repository Downloaded In Actual Machine
 
 First of all you need to clone this repository by navigate to an folder of your choice in this machine and call the command bellow.
 
@@ -17,7 +17,7 @@ First of all you need to clone this repository by navigate to an folder of your 
 	git clone https://github.com/eduardom4020/DataPrivacy.git
 ``` 
 
-##### Before Start Working
+## Before Start Working
 
 If this repository is already downloaded from your computer, you should call commands bellow before start programming.
 
@@ -57,7 +57,7 @@ Or
 ```
 **Check and correct all the merge conflicts if it happens**
 
-##### Working
+## Working
 
 You can now work freely, but ever make changes only in your branch, so don't call any command checkout in this stage, only if it's truly necessary.
 **You can use git status to make sure that you are always in the same branch.**
@@ -80,7 +80,7 @@ In **Put some commit message here** you need to put commit messages with the pat
 
 **You can push various commits with same message, if modifications aren't that big.**
 
-##### Testing
+## Testing
 
 After finish your job and make local revision (check if all of your latest modifications are working well) you need to integrate that with the branch named **Test.**
 
@@ -116,7 +116,7 @@ Resolve merge conflicts if was necessary.
 
 When you do this, you need to contact your partners and wait for their aprove.
 
-##### Realeasing
+## Realeasing
 
 After the crew made the tests, you can repeat the process above, but this time from Test to master:
 
