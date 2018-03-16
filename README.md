@@ -39,7 +39,7 @@ This will keep the last branch you worked at, up to date. Now go to the master.
 
 And if you have a new job to do, you will need to create a new branch with name convention bellow:
 
-	*Dev-JobName : For creating new functionalities, where JobName is the name you wish to give to your actual objective. Example: Dev-Write-Tutorial.
+* Dev-JobName : For creating new functionalities, where JobName is the name you wish to give to your actual objective. Example: Dev-Write-Tutorial.
 
 
 Now execute only one of the commands bellow:
@@ -70,11 +70,11 @@ Time by time you can push changes to this branch. Normaly you must make this bef
 
 In **Put some commit message here** you need to put commit messages with the pattern:
 
-	*CREATED: Message -> Used only when a new branch is created. You need to specify why this branch was created.
-	*DOING: Message -> Modifications you are acctualy making.
-	*DONE: Message -> Last modification that is already made.
-	*TODO: Message -> An modification that needs to be make.
-	*BLOCKED: Message -> Modification that you cannot make and why.
+* CREATED: Message -> Used only when a new branch is created. You need to specify why this branch was created.
+* DOING: Message -> Modifications you are acctualy making.
+* DONE: Message -> Last modification that is already made.
+* TODO: Message -> An modification that needs to be make.
+* BLOCKED: Message -> Modification that you cannot make and why.
 
 **You must append these patterns in your commit message if necessary. Example: git add . && git commit -m "CREATED: Some reason DOING: One think" && git push origin BranchName**
 
